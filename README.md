@@ -2,4 +2,4 @@
 
 Aplicação para contagem de cliques com a super função de reiniciar.
 
- ![Vídeo da aplicação](video)
+ ![Vídeo da aplicação](video.gif)
